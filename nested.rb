@@ -83,14 +83,14 @@ def adding_matz
           :known_for => "Ruby",
           :languages => ["LISP", "C"]
         }
-    }
+      }
 end
 
 def changing_alan
 	programmer_hash = 
  		{
         :grace_hopper => {
-          :known_for => "GUI",
+          :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
