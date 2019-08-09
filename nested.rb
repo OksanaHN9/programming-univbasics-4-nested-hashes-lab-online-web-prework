@@ -54,7 +54,6 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-     put  programmer_hash[:dennis_ritchie][:languages]
      return programmer_hash[:dennis_ritchie][:languages]
 end
 
